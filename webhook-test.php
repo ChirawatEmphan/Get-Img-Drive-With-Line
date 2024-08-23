@@ -1,6 +1,6 @@
 <?php
 // กำหนดค่า Channel Access Token
-$accessToken = 'c63jpGRRS++jMYlLZ3VgXCT+pd7B+wCO7ZqfSg2slH1EDdhpDJMTm2a8oyLVUmcze456oM4B3gIb0F3nfbe1Zj5obMnDkRqIgIBhLDjC+EXRy7yQYIqPnzWh7LIyC9S9eUDAZvoD9M0ZlMqx3j0BrAdB04t89/1O/w1cDnyilFU=';
+$accessToken = '';
 
 // รับข้อมูลจาก LINE webhook
 $content = file_get_contents('php://input');
