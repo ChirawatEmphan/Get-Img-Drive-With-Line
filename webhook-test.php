@@ -1,6 +1,6 @@
 <?php
 // กำหนดค่า Channel Access Token
-$accessToken = '';
+$accessToken = '################################';
 
 // รับข้อมูลจาก LINE webhook
 $content = file_get_contents('php://input');
